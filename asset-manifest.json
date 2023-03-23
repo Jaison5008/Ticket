@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jaison5008/Ticket.git/static/css/main.adef96bc.css",
+    "main.js": "/Jaison5008/Ticket.git/static/js/main.3bc62713.js",
+    "index.html": "/Jaison5008/Ticket.git/index.html",
+    "main.adef96bc.css.map": "/Jaison5008/Ticket.git/static/css/main.adef96bc.css.map",
+    "main.3bc62713.js.map": "/Jaison5008/Ticket.git/static/js/main.3bc62713.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adef96bc.css",
+    "static/js/main.3bc62713.js"
+  ]
+}
